@@ -1,0 +1,21 @@
+StudentID,LessonID,FeedbackScore,FeedbackComment
+892,1,5.0,Poor
+92,2,5.0,Average
+973,3,3.34152172419944,Good
+680,4,2.9663205478394166,Average
+214,5,1.1882394368884068,Average
+794,6,5.0,Good
+769,7,5.0,Good
+108,8,5.0,Good
+931,9,5.0,Excellent
+382,10,5.0,Needs Improvement
+962,11,5.0,Average
+881,12,5.0,Poor
+556,13,5.0,Good
+678,14,5.0,Good
+108,15,5.0,Good
+474,16,5.0,Needs Improvement
+984,17,5.0,Poor
+811,18,5.0,Average
+500,19,5.0,Needs Improvement
+709,20,5.0,Excellent
